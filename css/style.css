@@ -1,0 +1,14 @@
+/* reset CSS */
+*{  
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: #2FA5EB;
+    text-align: right;
+    color: aliceblue;
+    padding: 12px; /* padding margin 1 ,2 or 4 properties*/
+
+
+}
